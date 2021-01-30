@@ -51,7 +51,7 @@ This website is individually developed by Jesal Mehta (Github profile- https://g
 * Portfolio Website demo: ![Demo](./assets/images/Jesal_Mehta_Portfolio.gif)
 * Screenshots : 
     - ![Screenshot](./assets/images/Home-page.png)
-    - ![Screenshot](./assets/images/Portfolio-page1.png)
+    - ![Screenshot](./assets/images/portfolio-page1.png)
     - ![Screenshot](./assets/images/Portfolio-page2.png)
     - ![Screenshot](./assets/images/Portfolio-page3.png)
     - ![Screenshot](./assets/images/About-me-page.png)
