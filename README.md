@@ -48,6 +48,7 @@ This website is individually developed by Jesal Mehta (Github profile- https://g
 
 * Deployed Application URL: https://jesaldm.github.io/portfolio/
 * Github Repository URL: https://github.com/JesalDM/updated_portfolio
+* Portfolio Website demo: ![Demo](./assets/images/Jesal_Mehta_Portfolio.gif)
 * Screenshots : 
     - ![Screenshot](./assets/images/Home-page.png)
     - ![Screenshot](./assets/images/Portfolio-page1.png)
