@@ -55,6 +55,15 @@ const portfolioItem = [
         liveLink : "https://jesaldm.github.io/code-quiz/.",
         codeLink : "https://github.com/JesalDM/code-quiz"
     },
+    {
+        gifLink :"./assets/images/note-taker-demo.gif",
+        source : "./assets/images/note-taker-demo.png",
+        altText : "Note-taker",
+        projectTitle : "Note-taker",
+        projectBody : "A node.js application built using the node Express package, that can be used to write, save, view and delete notes.",
+        liveLink : "https://manage-notes.herokuapp.com/",
+        codeLink : "https://github.com/JesalDM/note-taker"
+    }
 ]
 
     //this function generates each portfolio item in the portfolio section
